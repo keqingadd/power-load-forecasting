@@ -1,5 +1,13 @@
 # 电力负荷时间序列预测（毕业设计）
 
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-baseline-9ACD32)](https://lightgbm.readthedocs.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-demo-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)
+[![MAPE](https://img.shields.io/badge/single--step_MAPE-2.89%25-success)](#一页概览)
+[![Status](https://img.shields.io/badge/status-在研-yellow)](#一页概览)
+
 > 用 **LSTM + 注意力机制** 做 15 分钟粒度电力负荷的多步预测，并与季节朴素基线、LightGBM 做严格对照；覆盖单步 / 多步 / 递归 / 残差 / 区间预测 / 跨数据集泛化 / Streamlit 原型。
 
 ## 一页概览
