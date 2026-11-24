@@ -1,0 +1,11 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+lightgbm>=4.0
+torch>=2.0
+matplotlib>=3.9
+chinese-calendar>=1.9   # 节假日特征（pip 装不上时用国内镜像 -i https://mirrors.aliyun.com/pypi/simple/）
+# 可选（后续用）
+# statsmodels>=0.14
+# chinese-calendar>=1.9
+# streamlit>=1.30

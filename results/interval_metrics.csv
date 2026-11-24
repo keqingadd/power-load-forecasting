@@ -1,0 +1,2 @@
+﻿model,nominal_coverage,PICP,PINAW,mean_width_kw
+"LSTM+Attn(quantile,h=1)",80.0,79.26747311827957,0.03912551905980498,11528.1865234375
